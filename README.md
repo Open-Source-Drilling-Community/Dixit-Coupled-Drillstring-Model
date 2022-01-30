@@ -44,3 +44,4 @@ The code is a donation by ExxonMobil and is made available under the MIT license
 OSDC: Dixit-Coupled-Drillstring-Model
 * Rajat Dixit (ExxonMobil)
 * Paul Pastusek (ExxonMobil)
+* Greg Payette (ExxonMobil)
